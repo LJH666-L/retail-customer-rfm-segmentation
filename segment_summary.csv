@@ -1,0 +1,5 @@
+Segment,CustomerCount,TotalRevenue,AvgRecency,AvgFrequency,AvgMonetary,RevenueSharePct
+High-value,1201,5653999.59,16.02,8.79,4707.74,72.49
+At-risk valuable,415,866768.26,93.59,4.58,2088.6,11.11
+Lower-priority,1678,849804.73,162.03,1.44,506.44,10.9
+Recent-development,879,429023.14,21.29,1.7,488.08,5.5
