@@ -46,3 +46,8 @@ January to November 2011.
 - pandas
 - Matplotlib
 - Jupyter Notebook
+## Visualisations
+
+![Customer Count by Segment](customer_count_by_segment.png)
+
+![Sales Value by Segment](segment_sales_value.png)
